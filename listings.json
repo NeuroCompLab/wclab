@@ -1,0 +1,22 @@
+[
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/posts/minimodels.html",
+      "/research/posts/unsupervised.html",
+      "/research/posts/cellpose3.html",
+      "/research/posts/critical_init.html",
+      "/research/posts/rastermap.html",
+      "/research/posts/kilosort.html",
+      "/research/posts/facemap.html",
+      "/research/posts/cellpose2.html",
+      "/research/posts/notso.html",
+      "/research/posts/highprecision.html",
+      "/research/posts/cellpose.html",
+      "/research/posts/highdim.html",
+      "/research/posts/spontaneous.html",
+      "/research/posts/suite2p.html",
+      "/research/posts/inhibitory.html"
+    ]
+  }
+]
