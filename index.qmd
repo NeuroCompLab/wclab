@@ -1,5 +1,5 @@
 ---
-title: Pachitariu + Stringer lab
+title: Wong-Campos lab
 resources:
   - .nojekyll
 ---
