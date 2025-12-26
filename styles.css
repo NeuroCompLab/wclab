@@ -12,6 +12,63 @@ a:link { text-decoration: none;
     background-origin: content-box;
   }
 --*/
+/* Research area grid - 3 cards in one row */
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Exactly 3 columns */
+  gap: 30px;
+  margin: 40px 0;
+}
+
+/* Make it responsive on smaller screens */
+@media (max-width: 768px) {
+  .research-grid {
+    grid-template-columns: 1fr; /* Stack on mobile */
+  }
+}
+
+.research-card {
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 20px;
+  transition: transform 0.2s, box-shadow 0.2s;
+  background: white;
+}
+
+.research-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.research-card img,
+.research-card video {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin-bottom: 15px;
+}
+
+.research-card h4 {
+  margin-top: 0;
+  color: #333;
+  font-size: 1.3rem;
+}
+
+.research-card p {
+  color: #666;
+  line-height: 1.6;
+}
+
+.research-card a {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.research-card a:hover {
+  text-decoration: underline;
+}
 
 div.quarto-post .thumbnail img {
   width: 100%;
