@@ -1,13 +1,14 @@
 ---
-title: Wong-Campos lab
+title: Observing Life in Motion
 resources:
   - .nojekyll
 ---
 
+We build optical instrumentation and photophysical methods to quantitatively measure biological dynamics, especially synaptic and single-neuron activity.
+
 Our lab is at [HHMI Janelia Research Campus](https://www.janelia.org/) (near DC), a fully-funded non-profit research institution. 
 
 ## Research
-
 
 We develop optical tools and methods to better understand how single neurons process information and contribute to the computing power of the brain. The team draws from a variety of scientific disciplines to create out-of-the-box solutions. Beyond neuroscience, we also work with cell biologists to further refine our techniques.
 

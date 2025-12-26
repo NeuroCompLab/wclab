@@ -2,9 +2,9 @@ project:
   type: website
 
 website:
-  title: <img src="/images/logo.png" width="50px">
-  description: "neuroscience lab"
-  favicon: images/logo.png
+  title: <img src="/images/logoBDI.png" width="50px"> Biological Dynamics & Instrumentation Group
+  description: "Biological Dynamics & Instrumentation Group"
+  favicon: images/logoBDI2.png
   navbar:
     left:
       - href: index.qmd
@@ -25,7 +25,7 @@ website:
 
 format:
   html:
-    theme: litera
+    theme: sandstone
     toc: true
     css: styles.css
     grid:
