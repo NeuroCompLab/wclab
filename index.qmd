@@ -13,7 +13,7 @@ Our lab is at [HHMI Janelia Research Campus](https://www.janelia.org/) (near Was
 ::: {.research-grid}
 
 ::: {.research-card}
-![](images/research1.jpg)
+![](images/Singleneuronnetwork.png)
 
 #### **Systems-Level Inference from Single Neurons**
 
