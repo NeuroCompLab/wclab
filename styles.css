@@ -11,28 +11,55 @@ a:link { text-decoration: none;
   margin: 40px 0;
 }
 
+.navbar-nav {
+  margin: 0 auto; /* Centers the menu */
+}
+
 /* Force navbar down to make room for top image */
 body {
   padding-top: 100px; /* Adjust based on your image height + navbar height */
 
 }
 
-.top-image {
-  width: 100%;
-  text-align: center;
-  background-color: #f5f5f5;
-  padding: 20px 0;
+.top-banner {
+  background: linear-gradient(135deg, #4a5568, #2d3748);
+  padding: 2rem 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-.top-image img {
-  max-width: 100px;
-  height: auto;
+.banner-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px; /* Space between logo and text */
 }
 
-.navbar {
-  position: relative;
-  width: 100%;
-  z-index: 10;
+.banner-content img {
+  height: 80px; /* Adjust logo size */
+  width: auto;
+}
+
+.banner-text {
+  text-align: left;
+}
+
+.banner-text h1 {
+  color: white;
+  font-size: 3rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+.banner-text .subtitle {
+  color: white;
+  font-size: 1.2rem;
+  opacity: 0.95;
+  margin: 0.5rem 0 0 0;
+}
+
+/* Adjust body padding for banner height */
+body {
+  padding-top: 180px; /* Adjust based on banner height */
 }
 
 /* Push all content down */

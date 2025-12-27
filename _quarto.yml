@@ -2,7 +2,6 @@ project:
   type: website
 
 website:
-  title: <img src="/images/logoBDI.png" width="50px"> Biological Dynamics & Instrumentation Group
   description: "Biological Dynamics & Instrumentation Group"
   favicon: images/logoBDI2.png
 
@@ -31,17 +30,24 @@ format:
         <script>
         document.addEventListener('DOMContentLoaded', function() {
           const isHomePage = window.location.pathname === '/' || 
-                              window.location.pathname.endsWith('index.html') ||
-                              window.location.pathname.endsWith('/');
+                             window.location.pathname.endsWith('index.html') ||
+                             window.location.pathname.endsWith('/');
           
           if (isHomePage) {
-            const topImage = document.createElement('div');
-            topImage.className = 'top-image';
-            topImage.innerHTML = '<img src="images/logo.png" alt="Banner">';
-            
+            const topBanner = document.createElement('div');
+            topBanner.className = 'top-banner';
+            topBanner.innerHTML = `
+              <div class="banner-content">
+                <img src="images/logoBDI.png" alt="Logo">
+                <div class="banner-text">
+                  <h1>Biological Dynamics & Instrumentation Group</h1>
+                  <p class="subtitle">@Janelia Research Campus</p>
+                </div>
+              </div>
+            `;
             const navbar = document.querySelector('.navbar');
             if (navbar && navbar.parentNode) {
-              navbar.parentNode.insertBefore(topImage, navbar);
+              navbar.parentNode.insertBefore(topBanner, navbar);
             }
           }
         });
