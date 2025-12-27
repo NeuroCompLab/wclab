@@ -12,8 +12,20 @@ a:link { text-decoration: none;
 }
 
 .navbar-nav {
-  margin: 0 auto; /* Centers the menu */
+  margin: 0 auto; /* Centers the nav items */
 }
+
+/* Make navbar text bigger */
+.navbar-nav .nav-link {
+  margin: 0 auto; /* Centers the menu */
+  font-size: 1.05rem; /* Increase from default ~1rem */
+}
+
+/* Also increase the logo/title text if you have it */
+.navbar-brand {
+  font-size: 1.1rem;
+}
+
 
 /* Force navbar down to make room for top image */
 body {
@@ -67,10 +79,30 @@ body {
   margin-top: 0px; /* Match navbar margin */
 }
 
-/* Make it responsive on smaller screens */
+/* Research area grid - responsive */
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 columns on desktop */
+  gap: 30px;
+  margin: 40px 0;
+}
+
+/* Tablets - 2 columns */
+@media (max-width: 992px) {
+  .research-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Mobile - 1 column */
 @media (max-width: 768px) {
   .research-grid {
-    grid-template-columns: 1fr; /* Stack on mobile */
+    grid-template-columns: 1fr;
+  }
+  
+  .research-card img,
+  .research-card video {
+    height: 250px; /* Taller on mobile */
   }
 }
 
