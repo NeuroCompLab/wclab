@@ -33,7 +33,7 @@ We develop quantitative imaging methods that enable stable measurements of biolo
 :::
 
 ::: {.research-card}
-![](images/research3.jpg)
+![](images/photophysics.png)
 
 #### **Photophysics of dark states**
 
