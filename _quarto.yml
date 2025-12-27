@@ -5,6 +5,7 @@ website:
   title: <img src="/images/logoBDI.png" width="50px"> Biological Dynamics & Instrumentation Group
   description: "Biological Dynamics & Instrumentation Group"
   favicon: images/logoBDI2.png
+
   navbar:
     left:
       - href: index.qmd
@@ -25,6 +26,26 @@ website:
 
 format:
   html:
+    include-in-header: 
+      text: |
+        <script>
+        document.addEventListener('DOMContentLoaded', function() {
+          const isHomePage = window.location.pathname === '/' || 
+                              window.location.pathname.endsWith('index.html') ||
+                              window.location.pathname.endsWith('/');
+          
+          if (isHomePage) {
+            const topImage = document.createElement('div');
+            topImage.className = 'top-image';
+            topImage.innerHTML = '<img src="images/logo.png" alt="Banner">';
+            
+            const navbar = document.querySelector('.navbar');
+            if (navbar && navbar.parentNode) {
+              navbar.parentNode.insertBefore(topImage, navbar);
+            }
+          }
+        });
+        </script>
     theme: sandstone
     toc: true
     css: styles.css

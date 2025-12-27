@@ -25,7 +25,7 @@ By measuring synaptic glutamate release at spine resolution, we use single neuro
 ::: {.research-card}
 ![](images/research2.jpg)
 
-#### **Quantitative imaging**
+#### **Quantitative optical measurements of cellular physiology**
 
 We develop quantitative imaging methods that enable stable measurements of biological activity during behavior and across time.
 
