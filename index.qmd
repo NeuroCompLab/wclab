@@ -23,7 +23,7 @@ By measuring synaptic glutamate release at spine resolution, we use single neuro
 :::
 
 ::: {.research-card}
-![](images/research2.jpg)
+![](images/FLIM.png)
 
 #### **Quantitative optical measurements of cellular physiology**
 
