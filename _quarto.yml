@@ -3,7 +3,7 @@ project:
 
 website:
   description: "Biological Dynamics & Instrumentation Group"
-  favicon: images/logoBDI2.png
+  favicon: images/logoBDI.png
 
   navbar:
     left:
