@@ -1,23 +1,70 @@
 a:link { text-decoration: none;
     font-weight: 600; }
 
-/*--
-.quarto-title-block .quarto-title-banner {
-    background-image: url(images/HHMI_Janelia_Logo-White.png);
-    background-size: 120px;
-    background-position: right;
-    background-repeat: no-repeat;
-    padding-left: 10px;
-    padding-right: 30px;
-    background-origin: content-box;
-  }
---*/
+
+
 /* Research area grid - 3 cards in one row */
 .research-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr); /* Exactly 3 columns */
   gap: 30px;
   margin: 40px 0;
+}
+
+.navbar-nav {
+  margin: 0 auto; /* Centers the menu */
+}
+
+/* Force navbar down to make room for top image */
+body {
+  padding-top: 100px; /* Adjust based on your image height + navbar height */
+
+}
+
+.top-banner {
+  background: linear-gradient(135deg, #4a5568, #2d3748);
+  padding: 2rem 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.banner-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px; /* Space between logo and text */
+}
+
+.banner-content img {
+  height: 80px; /* Adjust logo size */
+  width: auto;
+}
+
+.banner-text {
+  text-align: left;
+}
+
+.banner-text h1 {
+  color: white;
+  font-size: 3rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+.banner-text .subtitle {
+  color: white;
+  font-size: 1.2rem;
+  opacity: 0.95;
+  margin: 0.5rem 0 0 0;
+}
+
+/* Adjust body padding for banner height */
+body {
+  padding-top: 180px; /* Adjust based on banner height */
+}
+
+/* Push all content down */
+#quarto-content {
+  margin-top: 0px; /* Match navbar margin */
 }
 
 /* Make it responsive on smaller screens */

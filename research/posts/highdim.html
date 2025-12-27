@@ -9,7 +9,7 @@
 <meta name="author" content="Carsen Stringer*, Marius Pachitariu*, Nicholas Steinmetz, Matteo Carandini†, Kenneth D Harris†">
 <meta name="description" content="Neural population activity in response to natural images is high-dimensional, and the activity correlations obey a power law of 1/n.">
 
-<title>High-dimensional geometry of population responses in visual cortex –  Biological Dynamics &amp; Instrumentation Group</title>
+<title>High-dimensional geometry of population responses in visual cortex</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -71,6 +71,32 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const isHomePage = window.location.pathname === '/' || 
+                     window.location.pathname.endsWith('index.html') ||
+                     window.location.pathname.endsWith('/wclab/') ||
+                     window.location.pathname === '/wclab';
+  
+  if (isHomePage) {
+    const topBanner = document.createElement('div');
+    topBanner.className = 'top-banner';
+    topBanner.innerHTML = `
+      <div class="banner-content">
+        <img src="images/logoBDI.png" alt="Logo">
+        <div class="banner-text">
+          <h1>Biological Dynamics & Instrumentation Group</h1>
+          <p class="subtitle">@Janelia Research Campus</p>
+        </div>
+      </div>
+    `;
+    const navbar = document.querySelector('.navbar');
+    if (navbar && navbar.parentNode) {
+      navbar.parentNode.insertBefore(topBanner, navbar);
+    }
+  }
+});
+</script>
 
 
 <link rel="stylesheet" href="../../styles.css">
@@ -82,11 +108,6 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../../index.html">
-    <span class="navbar-title"><img src="../../images/logoBDI.png" width="50px"> Biological Dynamics &amp; Instrumentation Group</span>
-    </a>
-  </div>
             <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
