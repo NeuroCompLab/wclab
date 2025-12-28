@@ -21,62 +21,6 @@
     "text": "Datasets\nWe share our large-scale recordings of mouse cortex on figshare:\n\nVisual response dataset (Du et al 2025): recordings of 29,000 neurons in mouse primary visual cortex in response to up to 65,000 natural images; analysis code\nVisual learning dataset (Zhong et al 2025): recordings of 50,000+ neurons simultaneously in mouse visual cortex as mice undergo unsupervised and task learning in virtual reality; analysis code\nFacemap dataset (Syeda et al 2024): spontaneous neural activity from 50,000+ neurons in mouse visual cortex and sensorimotor cortex, simultaneous face camera recordings, and keypoint tracking training set\nNeural responses to oriented stimuli (Stringer et al 2021): Responses of 20,000+ neurons in mouse primary visual cortex and higher order visual cortex; analysis code\nSpontaneous neural activity in V1 (Stringer, Pachitariu et al 2019): Recordings of 10,000 neurons in visual cortex during spontaneous behaviors; analysis code\nEight-probe Neuropixels recordings during spontaneous behaviors by Nicholas Steinmetz, from Stringer, Pachitariu et al 2019\nNeural responses to natural images (Stringer, Pachitariu et al 2019): Recordings of 10,000 neurons in primary visual cortex in response to 2,800 natural images; analysis code\nV1 responses to drifting gratings (Pachitariu et al 2018): Responses of 10,000 neurons in mouse V1 during drifting gratings\n\nWe also shared the training data for the Cellpose algorithm: 70,000 segmented cells + other objects.\nAnd we shared the simulations from the Kilosort4 paper: ephys simulations."
   },
   {
-    "objectID": "people/index.html",
-    "href": "people/index.html",
-    "title": "People",
-    "section": "",
-    "text": "Marius Pachitariu\n\n\nCarsen Stringer\n\n\n\n\n\n\n\n\n\n\n\nLin Zhong\n\n\nMiguel Angel Nunez\n\n\n\n\nQingqing Zhang\n\n\nPaul LaFosse\n\n\n\n\n\n\n\n\n\n\n\nFengtong Du\n\n\nAtika Syeda\n\n\n\n\nRuoxi Sun\n\n\n\n\n\n\n\n\n\n\n\n\n\nTosif Ahamed\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJacob Pennington\n\n\nMichael Rariden\n\n\n\n\n\n\n\n\n\n\n\nChris Ki\n\n\n\n\n\n\n\n\n\n\n\nMinh Thao Nguyen, PhD student, Novak lab\nOndrej Novak\nBeverly Seltzer, PhD student, Lewis lab\nLen Jacob, postdoc, Lewis lab\nLaura Lewis\n\n\n\n\n\nWill Long, research technician → Princeton PhD\nRenee Tung, research technician and JUS summer student → Columbia PhD\nSonia Joseph, research technician → Mila PhD\nMichalis Michaelos, research technician → Janelia vivarium experimenter\nIfedayo Emmanuel Adeyefa-Olasupo, postdoc"
-  },
-  {
-    "objectID": "people/index.html#group-leaders",
-    "href": "people/index.html#group-leaders",
-    "title": "People",
-    "section": "",
-    "text": "Marius Pachitariu\n\n\nCarsen Stringer"
-  },
-  {
-    "objectID": "people/index.html#postdocs",
-    "href": "people/index.html#postdocs",
-    "title": "People",
-    "section": "",
-    "text": "Lin Zhong\n\n\nMiguel Angel Nunez\n\n\n\n\nQingqing Zhang\n\n\nPaul LaFosse"
-  },
-  {
-    "objectID": "people/index.html#phd-students",
-    "href": "people/index.html#phd-students",
-    "title": "People",
-    "section": "",
-    "text": "Fengtong Du\n\n\nAtika Syeda\n\n\n\n\nRuoxi Sun"
-  },
-  {
-    "objectID": "people/index.html#affiliated-theory-fellows",
-    "href": "people/index.html#affiliated-theory-fellows",
-    "title": "People",
-    "section": "",
-    "text": "Tosif Ahamed"
-  },
-  {
-    "objectID": "people/index.html#software-engineers",
-    "href": "people/index.html#software-engineers",
-    "title": "People",
-    "section": "",
-    "text": "Jacob Pennington\n\n\nMichael Rariden\n\n\n\n\n\n\n\n\n\n\n\nChris Ki"
-  },
-  {
-    "objectID": "people/index.html#previous-lab-visitors",
-    "href": "people/index.html#previous-lab-visitors",
-    "title": "People",
-    "section": "",
-    "text": "Minh Thao Nguyen, PhD student, Novak lab\nOndrej Novak\nBeverly Seltzer, PhD student, Lewis lab\nLen Jacob, postdoc, Lewis lab\nLaura Lewis"
-  },
-  {
-    "objectID": "people/index.html#alumni",
-    "href": "people/index.html#alumni",
-    "title": "People",
-    "section": "",
-    "text": "Will Long, research technician → Princeton PhD\nRenee Tung, research technician and JUS summer student → Columbia PhD\nSonia Joseph, research technician → Mila PhD\nMichalis Michaelos, research technician → Janelia vivarium experimenter\nIfedayo Emmanuel Adeyefa-Olasupo, postdoc"
-  },
-  {
     "objectID": "research/posts/cellpose3.html",
     "href": "research/posts/cellpose3.html",
     "title": "Cellpose3: one-click image restoration for improved cellular segmentation",
@@ -147,18 +91,53 @@
     "text": "We are seeking postdocs to investigate how large populations of neurons perform complex computations. We collect and analyze recordings of 50,000+ neurons, developing machine learning tools to extract computational principles from these large-scale datasets. Please reach out to Carsen Stringer (stringerc@hhmi.org) with your CV if you are interested. We are looking for candidates with experience performing imaging experiments in animals and ideally some experience analyzing large-scale neural datasets. Please share a link to your github profile on your CV when applying, especially if you are coming from a computational background.\nAll research is internally funded by the Howard Hughes Medical Institute with highly competitive benefits. A first-year postdoc is compensated at a rate of $74,200.00 annually. For information about Janelia, please visit www.janelia.org/about-us. For more information about our neuroscience department, please visit www.janelia.org/our-research/mechanistic-cognitive-neuroscience. For more information about being at Janelia, please check out these videos. Janelia provides incredible support for scientific research (surgical support, animal behavior training, and optical engineering), enabling researchers to focus on their specific scientific questions.\nDiversity, equity and inclusion are important values at Janelia, and applicants should be dedicated to ensuring kindness and inclusion in their interactions with the scientific community and with other employees at Janelia."
   },
   {
+    "objectID": "team/carsen.html",
+    "href": "team/carsen.html",
+    "title": "Carsen Stringer",
+    "section": "",
+    "text": "Carsen Stringer is a group leader at HHMI Janelia Research Campus. The lab develops algorithms for understanding large-scale neural activity. In addition, the lab works on general segmentation algorithms for cellular data, which enable fast and accurate processing of ~50,000 neuron recordings.\nHere’s a biography of Carsen written by Daniela Cassataro for Stories of Women in Neuroscience (includes a podcast version). Carsen also talks about past and current work in this podcast with Paul Middlebrooks.\nstringerc@hhmi.org  google scholar  carsen-stringer  computingnature  computingnature"
+  },
+  {
+    "objectID": "team/carsen.html#education",
+    "href": "team/carsen.html#education",
+    "title": "Carsen Stringer",
+    "section": "Education",
+    "text": "Education\nUniversity College London, Gatsby Unit | 2018 PhD Computational Neuroscience Advisors: Kenneth Harris & Matteo Carandini\nUniversity of Pittsburgh | 2013  BSc Applied Math & Physics Advisor: Jonathan Rubin"
+  },
+  {
+    "objectID": "team/carsen.html#teaching",
+    "href": "team/carsen.html#teaching",
+    "title": "Carsen Stringer",
+    "section": "Teaching",
+    "text": "Teaching\n(links to coding material)\n\nBehavioral encoding models for large-scale population activity, JHU bootcamp, 2023\nDeep Learning for Microscopy Image Analysis (lecturer), MBL Woodshole, 2022, 2023\nImaging Structure & Function in the Nervous System (lecturer), CSHL, 2018, 2019, 2022, 2023\nCAJAL Course on Interacting with Neural Circuits (lecturer), Champalimaud, 2019, 2022, 2023\nModern Optical Microscopy for the Modern Biologist, guest lecturer, UC Berkeley, 2022, 2023\nProbabilistic Machine Learning Course (co-instructor), Janelia+JHU, 2022-2023\nLearning to use suite2p and kilosort2 (co-instructor), Janelia, 2019\nNeural Data Science (co-instructor) CSHL 2019\nBoard of directors, Neuromatch Academy, 2021-2023\nDeep Learning for comp neuro (organizer/lecturer) + TA organizer Neuromatch Academy, 2020\nMathematical methods for neuroscience and ML (co-organizer), Janelia, 2019\nMachine Learning: Dimensionality reduction, Janelia, 2018\nTheoretical Neuroscience TA, Gatsby, UCL, 2014"
+  },
+  {
+    "objectID": "team/index.html",
+    "href": "team/index.html",
+    "title": "",
+    "section": "",
+    "text": "David Wong-Campos  Group Leader\n\n\n    Dalia Ornelas-Huerta  Research Specialist\n\n\n    Jose Zepeda  Postdoc"
+  },
+  {
+    "objectID": "team/index.html#team",
+    "href": "team/index.html#team",
+    "title": "",
+    "section": "",
+    "text": "David Wong-Campos  Group Leader\n\n\n    Dalia Ornelas-Huerta  Research Specialist\n\n\n    Jose Zepeda  Postdoc"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Observing Life in Motion",
     "section": "",
-    "text": "Biological systems compute through fast, distributed, and adaptive dynamics that are difficult to measure with existing tools. Our research focuses on developing quantitative optical instrumentation to measure biological activity with high temporal precision, stability, and interpretability, and on using these measurements to understand how cells—and particularly neurons—process information during behavior and learning.\nOur lab is at HHMI Janelia Research Campus (near Washington DC), a fully-funded non-profit research institution."
+    "text": "Biological systems compute through fast, distributed, and adaptive dynamics that are difficult to measure with existing tools. Our research focuses on developing quantitative optical instrumentation to measure biological activity with high temporal precision, stability, and interpretability, and on using these measurements to understand how cells—and particularly neurons—process information during behavior and learning."
   },
   {
     "objectID": "index.html#news",
     "href": "index.html#news",
     "title": "Observing Life in Motion",
     "section": "News",
-    "text": "News\nJanuary 5, 2025: Patch clamp extraordinarie Jose Zepeda joins. Welcome Jose!\nMarch 10, 2025: WClab opens! and Dalia joins as the first teammate. Welcome Dalia!"
+    "text": "News\nJanuary 5, 2026: Patch clamp extraordinarie Jose Zepeda joins. Welcome Jose!\nMarch 10, 2025: The Biological Dynamics & Instrumentation Group is created! Dalia joins as the first teammate. Welcome Dalia!"
   },
   {
     "objectID": "index.html#resources",
@@ -229,26 +208,5 @@
     "title": "Publications",
     "section": "",
     "text": "preprints\nQingqing Zhang, Sverre Grødem, Alexa Gracias, Kristian K Lensjø, Marianne Fyhn, Carsen Stringer†, Marius Pachitariu†. Spatial predictive coding in visual cortical neurons. bioRxiv, 2025.\nMarius Pachitariu, Michael Rariden, Carsen Stringer. Cellpose-SAM: superhuman generalization for cellular segmentation. bioRxiv, 2025.\nMarius Pachitariu, Lin Zhong, Alexa Gracias, Amanda Minisi, Crystall Lopez, Carsen Stringer. A critical initialization for biological neural networks. bioRxiv, 2025.\nJason A Keller, Iljung S Kwak, Alyssa K Stark, Marius Pachitariu, Kristin Branson, Joshua T Dudman. Cortical control of innate behavior from subcortical demonstration. bioRxiv, 2025.\nJudith Hoeller, Lin Zhong, Marius Pachitariu, Sandro Romani. Bridging tuning and invariance with equivariant neuronal representations. bioRxiv, 2024.\nCarsen Stringer, Marius Pachitariu. Benchmarking cellular segmentation methods against Cellpose. bioRxiv, 2024.\nYuki Miura, Ji-il Kim, Ovidiu Jurjut, Kevin W Kelley, Xiao Yang, Xiaoyu Chen, Mayuri Vijay Thete, Omer Revah, Bianxiao Cui, Marius Pachitariu, Sergiu P Pasca. Assembloid model to study loop circuits of the human nervous system. bioRxiv, 2024.\nLeandro PL Jacob, Sydney M Bailes, Stephanie D Williams, Carsen Stringer, Laura D Lewis. Distributed fMRI dynamics predict distinct EEG rhythms across sleep and wakefulness. bioRxiv, 2024.\nStefanos Stagkourakis, Giada Spigolon, Markus Marks, Michael Feyder, Joseph Kim, Pietro Perona, Marius Pachitariu, David J Anderson. Anatomically distributed neural representations of instincts in the hypothalamus. bioRxiv, 2023.\n\n\n2025\nFengtong Du, Miguel Angel Núñez-Ochoa, Marius Pachitariu†, Carsen Stringer†. A simplified minimodel of visual cortical neurons. Nature Communications, 2025.\nLin Zhong, Scott Baptista, Rachel Gattoni, Jon Arnold, Daniel Flickinger, Carsen Stringer†, Marius Pachitariu†. Unsupervised pretraining in biological neural networks Nature, 2025.\nCarsen Stringer, Marius Pachitariu. Cellpose3: one-click image restoration for improved cellular segmentation. Nature Methods, 2025.\nEric M Trautmann, Janis K Hesse, Gabriel M Stine, Ruobing Xia, Shude Zhu, Daniel J O’Shea, Bill Karsh, Jennifer Colonell, Frank F Lanfranchi, Saurabh Vyas, Andrew Zimnik, Elom Amematsro, Natalie A Steinemann, Daniel A Wagenaar, Marius Pachitariu, Alexandru Andrei, Carolina Mora Lopez, John O’Callaghan, Jan Putzeys, Bogdan C Raducanu, Marleen Welkenhuysen, Mark Churchland, Tirin Moore, Michael Shadlen, Krishna Shenoy, Doris Tsao, Barundeb Dutta, Timothy Harris. Large-scale high-density brain-wide neural recording in nonhuman primates. Nature Neuroscience, 2025.\nXuyu Qian, Kyle Coleman, Shunzhou Jiang, Andrea J Kriz, Jack H Marciano, Chunyu Luo, Chunhui Cai, Monica Devi Manam, Emre Caglayan, Aoi Otani, Urmi Ghosh, Diane D Shao, Rebecca E Andersen, Jennifer E Neil, Robert Johnson, Alexandra LeFevre, Jonathan L Hecht, Michael B Miller, Liang Sun, Carsen Stringer, Mingyao Li, Christopher A Walsh. Spatial transcriptomics reveals human cortical layer and area specification. Nature, 2025.\nValentina Gandin, Jun Kim, Liang-Zhong Yang, Yumin Lian, Takashi Kawase, Amy Hu, Konrad Rokicki, Greg Fleishman, Paul Tillberg, Alejandro Aguilera Castrejon, Carsen Stringer, Stephan Preibisch, Zhe J Liu. Deep-Tissue Spatial Omics: Imaging Whole-Embryo Transcriptomics and Subcellular Structures at High Spatial Resolution. Science, 2025.\nWeinan Sun, Johan Winnubst, Maanasa Natrajan, Chongxi Lai, Koichiro Kajikawa, Michalis Michaelos, Rachel Gattoni, Carsen Stringer, Daniel Flickinger, James E Fitzgerald, Nelson Spruston. Learning produces a hippocampal cognitive map in the form of an orthogonalized state machine. Nature, 2025.\n\n\n2024\nCarsen Stringer, Marius Pachitariu. Analysis methods for large-scale neuronal recordings. Science, 2024.\nAtika Syeda, Lin Zhong, Renee Tung, Will Long, Marius Pachitariu†, Carsen Stringer†. Facemap: A Framework for Modeling Neural Activity Based on Orofacial Tracking. Nature Neuroscience, 2024.\nMarius Pachitariu, Shashwat Sridhar, Jacob Pennington, Carsen Stringer. Spike sorting with Kilosort4. Nature Methods, 2024.\nCarsen Stringer, Lin Zhong, Atika Syeda, Fengtong Du, Maria Kesa, Marius Pachitariu. Rastermap: A Discovery Method for Neural Population Recordings. Nature Neuroscience, 2024.\nHelen Farrants, Yichun Shuai, William C Lemon, Christian Monroy Hernandez, Shang Yang, Ronak Patel, Guanda Qiao, Michelle S Frei, Jonathan B Grimm, Timothy L Hanson, Filip Tomaska, Glenn C Turner, Carsen Stringer, Philipp J Keller, Abraham G Beyene, Yao Chen, Yajie Liang, Luke D Lavis, Eric R Schreiter. A modular chemigenetic calcium indicator for multiplexed in vivo functional imaging. Nature Methods, 2024.\n\n\n2023\nJonathan W. Lovelace, Jingrui Ma, Saurabh Yadav, Karishma Chhabria, Hanbing Shen, Zhengyuan Pang, Tianbo Qi, Ruchi Sehgal, Yunxiao Zhang, Tushar Bali, Thomas Vaissiere, Shawn Tan, Yuejia Liu, Gavin Rumbaugh, Li Ye, David Kleinfeld, Carsen Stringer, Vineet Augustine. Vagal sensory neurons mediate the Bezold–Jarisch reflex and induce syncope. Nature, 2023.\n\n\n2022\nMarius Pachitariu, Carsen Stringer. Cellpose 2.0: How to Train Your Own Model. Nature Methods 19, no. 12 (2022): 1634–41. Research Briefing: A Cellular Segmentation Algorithm with Fast Customization.\nLilach Avitan, Carsen Stringer. Not so Spontaneous: Multi-Dimensional Representations of Behaviors and Context in Sensory Areas. Neuron 110, no. 19 (2022): 3064–75.\nKevin J Cutler, Carsen Stringer, Teresa W Lo, Luca Rappez, Nicholas Stroustrup, S Brook Peterson, Paul A Wiggins, Joseph D Mougous. Omnipose: A High-Precision Morphology-Independent Solution for Bacterial Cell Segmentation. Nature Methods 19, no. 11 (2022): 1438–48.\nRichard J Gardner, Erik Hermansen, Marius Pachitariu, Yoram Burak, Nils A Baas, Benjamin A Dunn, May-Britt Moser, Edvard I Moser. Toroidal Topology of Population Activity in Grid Cells. Nature 602, no. 7895 (2022): 123–28.\nBiraj Pandey, Marius Pachitariu, Bingni W. Brunton, and Kameron Decker Harris. Structured Random Receptive Fields Enable Informative Sensory Encodings. PLoS Computational Biology 18, no. 10 (2022): e1010484.\nBernard t Hart, Titipat Achakulvisut, Ayoade Adeyemi, Athena Akrami, Bradly Alicea, Alicia Alonso-Andres, Diego Alzate-Correa, … Marius Pachitariu, … Carsen Stringer, et al. Neuromatch Academy: A 3-Week, Online Summer School in Computational Neuroscience. Journal of Open Source Education 5, no. 49 (2022): 118.\nEdward Zagha, Jeffrey C Erlich, Soohyun Lee, Gyorgy Lur, Daniel H O’Connor, Nicholas A Steinmetz, Carsen Stringer, Hongdian Yang. The Importance of Accounting for Movement When Relating Neuronal Activity to Sensory and Cognitive Processes. Journal of Neuroscience 42, no. 8 (2022): 1375–82.\n\n\n2021\nCarsen Stringer, Michalis Michaelos, Dmitri Tsyboulski, Sarah E Lindo, Marius Pachitariu. High-Precision Coding in Visual Cortex. Cell 184, no. 10 (2021): 2767–78.\nCarsen Stringer, Tim Wang, Michalis Michaelos, Marius Pachitariu. Cellpose: A Generalist Algorithm for Cellular Segmentation. Nature Methods 18, no. 1 (2021): 100–106.\nNicholas A Steinmetz*, Cagatay Aydin*, Anna Lebedeva*, Michael Okun*, Marius Pachitariu*, Marius Bauza, Maxime Beau, et al. Neuropixels 2.0: A Miniaturized High-Density Probe for Stable, Long-Term Brain Recordings. Science 372, no. 6539 (2021): eabf4588.\nAnne-Kathrin Eiselt, Susu Chen, Jim Chen, Jon Arnold, Tahnbee Kim, Marius Pachitariu, Scott M Sternson. Hunger or Thirst State Uncertainty Is Resolved by Outcome Evaluation in Medial Prefrontal Cortex to Guide Decision-Making. Nature Neuroscience 24, no. 7 (2021): 907–12.\nKyu Hyun Lee, Yu-Li Ni, Jennifer Colonell, Bill Karsh, Jan Putzeys, Marius Pachitariu, Timothy D Harris, Markus Meister. Electrode Pooling Can Boost the Yield of Extracellular Recordings with Switchable Silicon Probes. Nature Communications 12, no. 1 (2021): 5245.\nJoshua H. Siegle, Xiaoxuan Jia, Séverine Durand, Sam Gale, Corbett Bennett, Nile Graddis, Greggory Heller, …, Marius Pachitariu, et al. Survey of Spiking in the Mouse Visual System Reveals Functional Hierarchy. Nature 592, no. 7852 (2021): 86–92.\nTara van Viegen, Athena Akrami, Kathryn Bonnen, Eric DeWitt, Alexandre Hyafil, Helena Ledmyr, Grace W Lindsay, … Carsen Stringer, … Marius Pachitariu, et al. Neuromatch Academy: Teaching Computational Neuroscience with Global Accessibility. Trends in Cognitive Sciences 25, no. 7 (2021): 535–38.\n\n\n2020\nSylvia Schröder, Nicholas A Steinmetz, Michael Krumin, Marius Pachitariu, Matteo Rizzi, Leon Lagnado, Kenneth D Harris, Matteo Carandini. Arousal Modulates Retinal Output. Neuron 107, no. 3 (2020): 487–95.\n\n\n2019\nCarsen Stringer*, Marius Pachitariu*, Nicholas Steinmetz, Matteo Carandini†, Kenneth D Harris†. High-Dimensional Geometry of Population Responses in Visual Cortex. Nature, 2019, 1.\nCarsen Stringer*, Marius Pachitariu*, Nicholas Steinmetz, Charu Bai Reddy, Matteo Carandini†, Kenneth D Harris†. Spontaneous Behaviors Drive Multidimensional, Brainwide Activity. Science 364, no. 6437 (2019): 255.\nCarsen Stringer, Marius Pachitariu. Computational Processing of Neural Recordings from Calcium Imaging Data. Current Opinion in Neurobiology 55 (2019): 22–31.\nWilliam E. Allen, Michael Z. Chen, Nandini Pichamoorthy, Rebecca H. Tien, Marius Pachitariu, Liqun Luo, Karl Deisseroth. Thirst Regulates Motivated Behavior through Modulation of Brainwide Neural Population Dynamics. Science 364, no. 6437 (2019): eaav3932.\n\n\n2018\nMarius Pachitariu, Carsen Stringer, Kenneth D Harris. Robustness of Spike Deconvolution for Neuronal Calcium Imaging. Journal of Neuroscience 38, no. 37 (2018): 7976–85.\nPhilipp Berens, Jeremy Freeman, Thomas Deneux, Nikolay Chenkov, Thomas McColgan, Artur Speiser, Jakob H Macke, … Marius Pachitariu, et al. Community-Based Benchmarking Improves Spike Rate Inference from Two-Photon Calcium Imaging Data. PLoS Computational Biology 14, no. 5 (2018): e1006157.\nMario Dipoppa, Adam Ranson, Michael Krumin, Marius Pachitariu, Matteo Carandini, Kenneth D. Harris. Vision and Locomotion Shape the Interactions between Neuron Types in Mouse Visual Cortex. Neuron 98, no. 3 (2018): 602–15.\n\n\n2017\nJames J Jun, Nicholas A Steinmetz, Joshua H Siegle, Daniel J Denman, Marius Bauza, Brian Barbarits, Albert K Lee, …, Marius Pachitariu, et al. Fully Integrated Silicon Probes for High-Density Recording of Neural Activity. Nature 551, no. 7679 (2017): 232–36.\n\n\n2016\nMarius Pachitariu, Nicholas Steinmetz, Shabnam Kadir, Matteo Carandini, Kenneth D Harris. Kilosort: Realtime Spike-Sorting for Extracellular Electrophysiology with Hundreds of Channels. bioRxiv/Neurips, 2016.\nMarius Pachitariu, Carsen Stringer, Sylvia Schröder, Mario Dipoppa, L Federico Rossi, Matteo Carandini, Kenneth D Harris. Suite2p: Beyond 10,000 Neurons with Standard Two-Photon Microscopy. bioRxiv, 2016.\nCarsen Stringer*, Marius Pachitariu*, Nicholas A Steinmetz, Michael Okun, Peter Bartho, Kenneth D Harris, Maneesh Sahani, Nicholas A Lesica. Inhibitory Control of Correlated Intrinsic Variability in Cortical Networks. Elife 5 (2016): e19695.\n\n\n2015\nMarius Pachitariu, Dmitry R Lyamzin, Maneesh Sahani, Nicholas A Lesica. State-Dependent Population Coding in Primary Auditory Cortex. Journal of Neuroscience 35, no. 5 (2015): 2058–73.\nJasper Poort, Adil G. Khan, Marius Pachitariu, Abdellatif Nemri, Ivana Orsolic, Julija Krupic, Marius Bauza, et al. Learning Enhances Sensory and Multiple Non-Sensory Representations in Primary Visual Cortex. Neuron 86, no. 6 (2015): 1478–90.\n\n\n2014\nErnesto Suárez, Steven Lettieri, Metthew C Zwier, Carsen Stringer, Sundar Raman Subramanian, Lillian T Chong, Daniel M Zuckerman. Simultaneous Computation of Dynamical and Equilibrium Information Using a Weighted Ensemble of Trajectories. J. Chem. Theory Comput. (2014), 10, 7, 2658–2667.\n\n\n2013\nMarius Pachitariu, Adam M Packer, Noah Pettit, Henry Dalgleish, Michael Hausser, Maneesh Sahani. Extracting Regions of Interest from Biological Images with Convolutional Sparse Block Coding. In Advances in Neural Information Processing Systems, 1745–53, 2013.\nMarius Pachitariu, Biljana Petreska, Maneesh Sahani. Recurrent Linear Models of Simultaneously-Recorded Neural Populations. Advances in Neural Information Processing Systems 26 (2013).\nMarius Pachitariu, Maneesh Sahani. Regularization and Nonlinearities for Neural Language Models: When Are They Needed?. arXiv Preprint arXiv:1301. 5650, 2013.\n\n\n2012\nMarius Pachitariu, Maneesh Sahani. Learning Visual Motion in Recurrent Neural Networks. In Neurips, 1331–39, 2012.\n\n\n\n\n\n  Powered by Quarto. © Wong-Campos lab, 2025."
-  },
-  {
-    "objectID": "people/carsen.html",
-    "href": "people/carsen.html",
-    "title": "Carsen Stringer",
-    "section": "",
-    "text": "Carsen Stringer is a group leader at HHMI Janelia Research Campus. The lab develops algorithms for understanding large-scale neural activity. In addition, the lab works on general segmentation algorithms for cellular data, which enable fast and accurate processing of ~50,000 neuron recordings.\nHere’s a biography of Carsen written by Daniela Cassataro for Stories of Women in Neuroscience (includes a podcast version). Carsen also talks about past and current work in this podcast with Paul Middlebrooks.\nstringerc@hhmi.org  google scholar  carsen-stringer  computingnature  computingnature"
-  },
-  {
-    "objectID": "people/carsen.html#education",
-    "href": "people/carsen.html#education",
-    "title": "Carsen Stringer",
-    "section": "Education",
-    "text": "Education\nUniversity College London, Gatsby Unit | 2018 PhD Computational Neuroscience Advisors: Kenneth Harris & Matteo Carandini\nUniversity of Pittsburgh | 2013  BSc Applied Math & Physics Advisor: Jonathan Rubin"
-  },
-  {
-    "objectID": "people/carsen.html#teaching",
-    "href": "people/carsen.html#teaching",
-    "title": "Carsen Stringer",
-    "section": "Teaching",
-    "text": "Teaching\n(links to coding material)\n\nBehavioral encoding models for large-scale population activity, JHU bootcamp, 2023\nDeep Learning for Microscopy Image Analysis (lecturer), MBL Woodshole, 2022, 2023\nImaging Structure & Function in the Nervous System (lecturer), CSHL, 2018, 2019, 2022, 2023\nCAJAL Course on Interacting with Neural Circuits (lecturer), Champalimaud, 2019, 2022, 2023\nModern Optical Microscopy for the Modern Biologist, guest lecturer, UC Berkeley, 2022, 2023\nProbabilistic Machine Learning Course (co-instructor), Janelia+JHU, 2022-2023\nLearning to use suite2p and kilosort2 (co-instructor), Janelia, 2019\nNeural Data Science (co-instructor) CSHL 2019\nBoard of directors, Neuromatch Academy, 2021-2023\nDeep Learning for comp neuro (organizer/lecturer) + TA organizer Neuromatch Academy, 2020\nMathematical methods for neuroscience and ML (co-organizer), Janelia, 2019\nMachine Learning: Dimensionality reduction, Janelia, 2018\nTheoretical Neuroscience TA, Gatsby, UCL, 2014"
   }
 ]
