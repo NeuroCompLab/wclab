@@ -29,13 +29,13 @@ a:link { text-decoration: none;
 
 /* Force navbar down to make room for top image */
 body {
-  padding-top: 100px; /* Adjust based on your image height + navbar height */
+  padding-top: 80px; /* Adjust based on your image height + navbar height */
 
 }
 
 .top-banner {
   background: linear-gradient(135deg, #4a5568, #2d3748);
-  padding: 2rem 0;
+  padding: 0.2rem 0;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
@@ -47,7 +47,7 @@ body {
 }
 
 .banner-content img {
-  height: 80px; /* Adjust logo size */
+  height: 150px; /* Adjust logo size */
   width: auto;
 }
 
