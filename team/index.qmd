@@ -1,0 +1,65 @@
+---
+toc: false
+html: custom
+
+---
+
+<style>
+.people {
+    min-height: 100vh;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.people table {
+    border-spacing: 40px 0; /* 40px horizontal, 0 vertical */
+    border-collapse: separate;
+}
+
+.people img {
+    width: 200px;
+    height: 200px;  /* Force uniform height */
+    object-fit: cover; /* Crop to fit */
+    object-position: center; /* Crop from center */
+    border-radius: 2px;
+}
+</style>
+
+<div class="people">
+
+## Team
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="200px">
+        <a href="https://www.janelia.org/people/marius-pachitariu">
+          <img src="images/wongcamposd.jpg" width="200px" alt="David Wong-Campos"/>
+        </a>
+        <br />
+        <b>David Wong-Campos</b>
+        <br />
+        <span style="color: #666; font-size: 0.9em;">Group Leader</span>
+      </td>
+      <td align="center" valign="top" width="200px">
+        <a href="dalia.html">
+          <img src="images/Dalia.jpeg" width="200px" alt="Dalia Ornelas-Huerta"/>
+        </a>
+        <br />
+        <b>Dalia Ornelas-Huerta</b>
+        <br />
+        <span style="color: #666; font-size: 0.9em;">Research Specialist</span>
+      </td>
+      <td align="center" valign="top" width="200px">
+        <a href="https://www.janelia.org/people/marius-pachitariu">
+          <img src="images/josez.jpeg" width="200px" alt="Josez"/>
+        </a>
+        <br />
+        <b>Jose Zepeda</b>
+        <br />
+        <span style="color: #666; font-size: 0.9em;">Postdoc</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+

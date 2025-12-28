@@ -6,8 +6,6 @@ resources:
 
 Biological systems compute through fast, distributed, and adaptive dynamics that are difficult to measure with existing tools. Our research focuses on developing quantitative optical instrumentation to measure biological activity with high temporal precision, stability, and interpretability, and on using these measurements to understand how cells—and particularly neurons—process information during behavior and learning.
 
-Our lab is at [HHMI Janelia Research Campus](https://www.janelia.org/) (near Washington DC), a fully-funded non-profit research institution. 
-
 # Research Areas
 
 ::: {.research-grid}
@@ -46,9 +44,9 @@ Fluorescent probes are dynamical systems, and exploiting their non-equilibrium s
 
 ## News
 
-**January 5, 2025:** Patch clamp extraordinarie Jose Zepeda joins. Welcome Jose!
+**January 5, 2026:** Patch clamp extraordinarie Jose Zepeda joins. Welcome Jose!
 
-**March 10, 2025:** WClab opens! and Dalia joins as the first teammate. Welcome Dalia!
+**March 10, 2025:** The Biological Dynamics & Instrumentation Group is created! Dalia joins as the first teammate. Welcome Dalia!
 
 ## Resources
 

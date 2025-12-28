@@ -9,7 +9,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: people/index.qmd
+      - href: team/index.qmd
         text: Team
       - href: research/index.qmd
         text: Research
@@ -42,7 +42,7 @@ format:
                 <img src="images/logoBDItransparent.png" alt="Logo">
                 <div class="banner-text">
                   <h1>Biological Dynamics & Instrumentation Group</h1>
-                  <p class="subtitle">@Janelia Research Campus</p>
+                  <p class="subtitle"><a href="https://www.janelia.org/" target="_blank">@Janelia Research Campus</a></p>
                 </div>
               </div>
             `;
