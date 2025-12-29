@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  site-url: "https://wclab.org"
   description: "Biological Dynamics & Instrumentation Group"
   favicon: images/logoBDI_light.png
 
