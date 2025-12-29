@@ -1,1 +1,1 @@
-Sitemap: https://NeuroCompLab.github.io/wclab/sitemap.xml
+Sitemap: https://wclab.org/sitemap.xml
