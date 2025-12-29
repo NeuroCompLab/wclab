@@ -5,6 +5,8 @@ title-block-banner: true
 
 ## Research Areas
 
+We address fundamental limitations of current optical techniques for recording the activity and dynamics of biological samples. Below are three directions that attack neural recordings throughput (1), absolute quantification for stable recordings of microscopy data (2), and exploration of novel photophysical schemes for new imaging methods (3).
+
 * [Systems-Level Inference](#systems)
 * [Quantitative Optical Measurements](#optical)
 * [Photophysics of Dark States](#photophysics)

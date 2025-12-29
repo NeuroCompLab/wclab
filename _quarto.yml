@@ -15,8 +15,8 @@ website:
         text: Research
       - href: research/publications.qmd
         text: Publications
-      - href: code_and_data.qmd
-        text: Code & data
+      - href: notes.qmd
+        text: Notes
       
       
   body-footer: |

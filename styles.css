@@ -235,7 +235,7 @@ hr {
 
 /* Adjust scroll position for fixed navbar */
 html {
-  scroll-padding-top: 50px; /* Adjust this value based on your navbar + banner height */
+  scroll-padding-top: 20px; /* Adjust this value based on your navbar + banner height */
 }
 
 /* Or target specific anchor sections */
