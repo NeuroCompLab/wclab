@@ -1,0 +1,41 @@
+---
+title: "David Wong-Campos"
+title-block-banner: true
+sidebar: false
+toc: true
+about:
+  template: marquee
+---
+
+<center>
+<img src="images/wongcamposd.jpg" width="200px" class="responsive"></img><br>
+</center>
+<br>
+
+David (Dahveed) Wong-Campos is a group leader at HHMI Janelia Research Campus. His lab is interested in understanding the fundamental limits of measurement in live biological samples.
+
+Here's a [interview](https://www.janelia.org/news/joining-janelia-david-wong-campos) of David.
+
+<a href="mailto:wongcamposd@hhmi.org"><i class="bi bi-envelope"></i> wongcamposd@hhmi.org</a><br>
+<a href="https://scholar.google.com/citations?hl=en&user=o_PCGOwAAAAJ"><i class="bi bi-google"></i> google scholar</a><br>
+
+## Education and Experience
+
+Triplet Imaging, USA | 2025<br>
+Founder
+
+Harvard University, Cambridge, USA | 2024<br>
+Postdoctoral fellow <br>
+Advisor: Adam Cohen
+
+IonQ, College Park, USA | 2020 <br>
+Senior Physicist <br>
+
+University of Maryland, College Park, USA | 2018<br>
+PhD in Physics <br>
+Advisor: Chris Monroe
+
+Instituto Tecnológico y de Estudios Superiores de Monterrey, Campus Monterrey (ITESM), Mexico | 2012 <br>
+BSc Engineering Physics <br>
+
+
