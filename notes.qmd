@@ -5,4 +5,4 @@ title-block-banner: true
 
 ## Notes
 
-Coming soon!
+[Download PDF](files/notes.pdf)
