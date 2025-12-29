@@ -11,6 +11,11 @@ a:link { text-decoration: none;
   margin: 40px 0;
 }
 
+.navbar {
+  position: sticky;
+  width: 100%;
+}
+
 .navbar-nav {
   margin: 0 auto; /* Centers the nav items */
 }
@@ -24,13 +29,6 @@ a:link { text-decoration: none;
 /* Also increase the logo/title text if you have it */
 .navbar-brand {
   font-size: 1.1rem;
-}
-
-
-/* Force navbar down to make room for top image */
-body {
-  padding-top: 80px; /* Adjust based on your image height + navbar height */
-
 }
 
 .top-banner {
@@ -71,12 +69,7 @@ body {
 
 /* Adjust body padding for banner height */
 body {
-  padding-top: 180px; /* Adjust based on banner height */
-}
-
-/* Push all content down */
-#quarto-content {
-  margin-top: 0px; /* Match navbar margin */
+  padding-top: 150px; /* Adjust based on banner height */
 }
 
 /* Research area grid - responsive */
@@ -186,4 +179,66 @@ div.quarto-post .listing-author {
 div.quarto-container .quarto-title-meta-contents p{
   font-size: 0.9em;
   font-weight: 100;
+}
+
+/* Research section layout */
+.research-section {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 40px;
+  margin: 30px 0;
+  padding: 20px 0;
+}
+
+.research-text {
+  padding-right: 20px;
+}
+
+.research-image {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.research-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Section headers */
+.research-section h4 {
+  margin-top: 30px;
+  margin-bottom: 15px;
+  color: #333;
+  font-size: 1.2rem;
+}
+
+/* Horizontal rules between sections */
+hr {
+  margin: 50px 0;
+  border: none;
+  border-top: 2px solid #e0e0e0;
+}
+
+/* Responsive layout */
+@media (max-width: 768px) {
+  .research-section {
+    grid-template-columns: 1fr;
+  }
+  
+  .research-image {
+    margin-top: 20px;
+  }
+}
+
+/* Adjust scroll position for fixed navbar */
+html {
+  scroll-padding-top: 50px; /* Adjust this value based on your navbar + banner height */
+}
+
+/* Or target specific anchor sections */
+[id] {
+  scroll-margin-top: 100px;
 }
