@@ -1,5 +1,5 @@
 ---
-title: "Unsupervised pretraining in biological neural networks"
+title: "Unsupervised pretraining in biological neural networkssss"
 description: |
   Unsupervised learning - exposure to stimuli without rewards - drives large changes in neural activity in visual cortex, particularly in higher order medial visual areas.
 categories:

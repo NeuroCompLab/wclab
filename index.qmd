@@ -17,7 +17,7 @@ Biological systems compute through fast, distributed, and adaptive dynamics that
 
 By measuring synaptic glutamate release at spine resolution, we use single neurons as sensors of presynaptic population activity. This enables inference of network dynamics during behavior and learning.
 
-[Read More](research/singleneuron.qmd)
+[Read More](research/index.qmd#systems)
 :::
 
 ::: {.research-card}
@@ -27,7 +27,7 @@ By measuring synaptic glutamate release at spine resolution, we use single neuro
 
 We develop quantitative imaging methods that enable stable measurements of biological activity during behavior and across time.
 
-[Read More](research/flim.qmd)
+[Read More](research/index.qmd#optical)
 :::
 
 ::: {.research-card}
@@ -37,7 +37,7 @@ We develop quantitative imaging methods that enable stable measurements of biolo
 
 Fluorescent probes are dynamical systems, and exploiting their non-equilibrium states enables new imaging modalities.
 
-[Read More](research/behavior.qmd)
+[Read More](research/index.qmd#photophysics)
 :::
 
 :::
